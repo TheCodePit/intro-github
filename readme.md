@@ -14,7 +14,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 
 # Links
 - [Atlassian What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
-- [How Teams Use GitHub](./docs/How%20teams%20use%20Git.pptx) (Goto file)
+- [How Teams Use GitHub](./docs/How%20teams%20use%20Git.pptx) (Go to file)
 - [Atlassian Git Cheat Sheet](./docs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 - [Reference](https://git-scm.com/docs)
 

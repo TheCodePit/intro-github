@@ -34,11 +34,6 @@ Github account.
 
     ![](./docs/maven.png)
 
-    - Left Menu >> select Maven >> Next
-    - Enter a name
-    - Create a new directory, something like `C:\my-java-projects\test`
-
-  ![](./docs/new-java-project.png)
 
   - Click Finish
   - Wait a bit for maven to initialize the project

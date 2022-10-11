@@ -2,17 +2,17 @@
 - Generate SSH keys
 - Push SSH keys to GitHub
 
-# Ex. 1 Clone & Push
+# Ex. 1 Clone & Push Name
 - Clone this repo
 - Create a new branch using the following format: `dev-{your initials}-java`
 - Update the main class with your name
 - Push your branch to the repo
 
-# Ex. 2 Push
+# Ex. 2 Push Favorite Food
 - Update the main class with your name and favorite food
 - Push your branch to the repo
 
-# Ex. 3 Push
+# Ex. 3 Push Favorite Color
 - Update the main class with your name and favorite food, and favorite color
 - Push your branch to the repo
 

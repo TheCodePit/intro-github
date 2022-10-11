@@ -1,19 +1,22 @@
 # Git Assignments
+- Generate SSH keys
+- Push SSH keys to GitHub
 
 # Ex. 1 Clone & Push
-- Generate SSH keys
 - Clone this repo
-- Create a new branch using the following format: `dev-{your initials}-ex1`
+- Create a new branch using the following format: `dev-{your initials}-java`
 - Update the main class with your name
 - Push your branch to the repo
 
 # Ex. 2 Clone & Push
-- Generate SSH keys
-- Clone this repo
 - Update the main class with your name and favorite food
 - Push your branch to the repo
 
-# Ex. 3 Create Java Project & Push to Your Repo
+# Ex. 3 Clone & Push
+- Update the main class with your name and favorite food, and favorite color
+- Push your branch to the repo
+
+# Ex. 4 Create Java Project & Push to Your Repo
 This exercise involves creating a new Java/Maven project and pushing it to a Git repository in your 
 Github account.
 

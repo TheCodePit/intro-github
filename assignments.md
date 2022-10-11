@@ -21,7 +21,7 @@ This exercise involves creating a new Java/Maven project and pushing it to a Git
 Github account.
 
 #### GitHub
-- Create new public repo in your GitHub account:
+- Create a new public repo in your GitHub account:
     - Upper right corner >> Click "+" >> New Repository >> {name}
     - Make sure it's public
     - Click Create Repository

@@ -8,17 +8,16 @@
 - Update the main class with your name
 - Push your branch to the repo
 
-# Ex. 2 Clone & Push
+# Ex. 2 Push
 - Update the main class with your name and favorite food
 - Push your branch to the repo
 
-# Ex. 3 Clone & Push
+# Ex. 3 Push
 - Update the main class with your name and favorite food, and favorite color
 - Push your branch to the repo
 
 # Ex. 4 Create Java Project & Push to Your Repo
-This exercise involves creating a new Java/Maven project and pushing it to a Git repository in your 
-Github account.
+This exercise creates a new Java/Maven project and pushes it to a Git repository in your Github account.
 
 #### GitHub
 - Create a new public repo in your GitHub account:

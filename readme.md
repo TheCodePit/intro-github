@@ -33,7 +33,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
 - Create Pull Request (PR)
 - Merge PR
 - Update your local dev branch: `git checkout dev && git pull origin dev`
-- Delete your branch that was just submitted: `git branch -D YOUR_BRANCH_NAME`
+- Delete your branch that was just merged: `git branch -D YOUR_BRANCH_NAME`
 
 # Common Git Commands
 ```

@@ -27,7 +27,7 @@ A repository (repo) to help students get used to Git.  Assigments are located [h
   - Test code
 - See what has changed: `git status`
   - ProTip: Always run `git status` before you make a commit (to make sure you are not adding "junk" to your commit)
-- Stage all files: `git add --all`
+- Stage all files (even deleted ones): `git add --all`
 - Create a commit: `git commit -m "YOUR_MESSAGE_HERE"`
 - Push to GitHub: `git push origin YOUR_BRANCH_NAME`
 - Create Pull Request (PR)
